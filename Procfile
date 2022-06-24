@@ -1,0 +1,4 @@
+
+
+
+web: uwsgi uswgi.ini
