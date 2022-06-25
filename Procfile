@@ -1,4 +1,4 @@
 
 
 
-web: uwsgi uswgi.ini
+web: uwsgi uwsgi.ini
